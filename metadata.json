@@ -1,0 +1,5 @@
+{
+  "name": "Agentic AI for DWSIM",
+  "description": "A web interface for an agentic AI that uses DWSIM, Python, and other tools to perform chemical process simulations. This application simulates the agent's thought process and tool usage based on user prompts.",
+  "requestFramePermissions": []
+}
